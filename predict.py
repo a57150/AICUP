@@ -50,7 +50,7 @@ model = model.merge_and_unload()
 #====================================================================================================
 
 from datasets import load_dataset, Features, Value
-valid_data = load_dataset("csv", data_files="/content/drive/MyDrive/AICUP/opendid_test.tsv", delimiter='\t',
+valid_data = load_dataset("csv", data_files="AICUP\\opendid_test.tsv", delimiter='\t',
                           features = Features({
                               'fid': Value('string'),
                               'idx': Value('int64'),
