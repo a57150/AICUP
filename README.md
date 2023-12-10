@@ -18,6 +18,12 @@
 9.	tqdm
 10.	datasets
 
-
 ## 資料
 將 第一階段資料集 與 第二階段資料集 解壓縮進 Data資料夾
+
+說明:Data資料夾中的duration.txt跟phone.txt為ChatGpt生成出的訓練資料
+
+## 執行
+* 確定已將第一階段資料集與第二階段資料集放入Data資料夾
+* 先執行資料前處理程式:Train-Data_pre-processing.py
+* 訓練及預測: train&predict.ipynb
