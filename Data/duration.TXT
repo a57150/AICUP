@@ -1,0 +1,1769 @@
+Retroperitoneal lymph node dissection for testicular cancer. Surgery completed 5 weeks ago.
+DURATION	5 weeks	P5W
+
+Prostate adenocarcinoma. Radical prostatectomy done 3 months ago.
+DURATION	3 months	P3M
+
+Stage I pancreatic cancer. Whipple procedure performed 6 weeks ago.
+DURATION	6 weeks	P6W
+
+Soft tissue sarcoma of the thigh. Wide local excision 1 year ago.
+DURATION	1 year	P1Y
+
+Bilateral renal cell carcinoma. Left nephrectomy 7 weeks ago.
+DURATION	7 weeks	P7W
+
+Stage II bladder cancer. Radical cystectomy with ileal conduit diversion 4 months ago.
+DURATION	4 months	P4M
+
+Esophageal adenocarcinoma. Ivor Lewis esophagectomy 8 weeks ago.
+DURATION	8 weeks	P8W
+
+Hodgkin's lymphoma, stage IIA. Completed 2 cycles of ABVD chemotherapy over 6 weeks.
+DURATION	6 weeks	P6W
+
+Right parotid gland tumor. Superficial parotidectomy performed 3 weeks ago.
+DURATION	3 weeks	P3W
+
+Metastatic melanoma. Excision of skin lesion with sentinel node biopsy 5 days ago.
+DURATION	5 days	P5D
+
+Stage III cervical cancer. Concurrent chemoradiotherapy completed 10 weeks ago.
+DURATION	10 weeks	P10W
+
+Non-small cell lung cancer. Stereotactic body radiation therapy (SBRT) 2 months ago.
+DURATION	2 months	P2M
+
+Gastrointestinal stromal tumor (GIST) in the stomach. Subtotal gastrectomy 9 weeks ago.
+DURATION	9 weeks	P9W
+
+Colorectal adenoma. Polypectomy performed 2 years ago.
+DURATION	2 years	P2Y
+
+Stage I breast cancer. Lumpectomy with sentinel lymph node biopsy 3 years ago.
+DURATION	3 years	P3Y
+
+Right kidney angiomyolipoma. Partial nephrectomy 5 years ago.
+DURATION	5 years	P5Y
+
+Stage III ovarian cancer. Completed 2 cycles of chemotherapy over 4 years.
+DURATION	4 years	P4Y
+
+Left lung carcinoid tumor. Bronchoscopic resection 6 years ago.
+DURATION	6 years	P6Y
+
+Recurrent glioblastoma multiforme. Tumor debulking surgery 1 year ago.
+DURATION	1 year	P1Y
+
+Thyroid papillary carcinoma. Total thyroidectomy 8 years ago.
+DURATION	8 years	P8Y
+
+Prostate adenocarcinoma. Radical prostatectomy 6 years ago.
+DURATION	6 years	P6Y
+
+Left hip osteosarcoma. Limb-salvage surgery 7 years ago.
+DURATION	7 years	P7Y
+
+Stage II pancreatic neuroendocrine tumor. Distal pancreatectomy 3 years ago.
+DURATION	3 years	P3Y
+
+Right renal oncocytoma. Nephron-sparing surgery 8 years ago.
+DURATION	8 years	P8Y
+
+Stage IV gastric adenocarcinoma. Total gastrectomy 4 years ago.
+DURATION	4 years	P4Y
+
+Soft tissue leiomyoma on the thigh. Excision 7 years ago.
+DURATION	7 years	P7Y
+
+Left ovarian serous cystadenocarcinoma. Bilateral salpingo-oophorectomy 6 years ago.
+DURATION	6 years	P6Y
+
+Right adrenal adenoma. Laparoscopic adrenalectomy 9 years ago.
+DURATION	9 years	P9Y
+
+Stage III esophageal adenocarcinoma. Esophagectomy with gastric pull-up 5 years ago.
+DURATION	5 years	P5Y
+
+Left ovarian teratoma. Laparoscopic cystectomy 2 years ago.
+DURATION	2 years	P2Y
+
+Stage IIB lung squamous cell carcinoma. Lobectomy with lymph node dissection 3 years ago.
+DURATION	3 years	P3Y
+
+Recurrent bladder carcinoma. Radical cystectomy with ileal conduit 7 years ago.
+DURATION	7 years	P7Y
+
+Right maxillary ameloblastoma. Maxillectomy 4 years ago.
+DURATION	4 years	P4Y
+
+Left eye retinoblastoma. Enucleation performed 1 year ago.
+DURATION	1 year	P1Y
+
+Stage IV prostate cancer. Androgen deprivation therapy initiated 5 weeks ago.
+DURATION	5 weeks	P5W
+
+Diffuse large B-cell lymphoma. Completed 3 cycles of R-CHOP chemotherapy over 9 weeks.
+DURATION	9 weeks	P9W
+
+Stage I testicular seminoma. Orchiectomy performed 8 weeks ago.
+DURATION	8 weeks	P8W
+
+Renal angiomyolipoma. Partial nephrectomy 6 months ago.
+DURATION	6 months	P6M
+
+Left adrenal gland adenoma. Laparoscopic adrenalectomy 7 weeks ago.
+DURATION	7 weeks	P7W
+
+Rectal adenocarcinoma. Total mesorectal excision (TME) surgery 4 months ago.
+DURATION	4 months	P4M
+
+Uterine fibroids. Hysterectomy performed 10 weeks ago.
+DURATION	10 weeks	P10W
+
+Acute myeloid leukemia. Induction chemotherapy completed 3 weeks ago.
+DURATION	3 weeks	P3W
+
+Stage II pancreatic cancer. Chemoradiation therapy completed 8 weeks ago.
+DURATION	8 weeks	P8W
+
+Ovarian serous carcinoma. Debulking surgery with omentectomy 6 months ago.
+DURATION	6 months	P6M
+
+Left maxillary sinus squamous cell carcinoma. Maxillectomy done 4 weeks ago.
+DURATION	4 weeks	P4W
+
+Thyroid papillary carcinoma. Total thyroidectomy 5 weeks ago.
+DURATION	5 weeks	P5W
+
+Stage IIIA breast cancer. Neoadjuvant chemotherapy followed by mastectomy 7 months ago.
+DURATION	7 months	P7M
+
+Merkel cell carcinoma of the right thigh. Wide local excision 3 weeks ago.
+DURATION	3 weeks	P3W
+
+Stage IV colon cancer with liver metastasis. Hepatic resection performed 9 weeks ago.
+DURATION	9 weeks	P9W
+
+Nasopharyngeal carcinoma. Intensity-modulated radiation therapy (IMRT) completed 2 months ago.
+DURATION	2 months	P2M
+
+Right atrial myxoma. Cardiac tumor resection surgery 1 year ago.
+DURATION	1 year	P1Y
+
+Stage IIB cervical squamous cell carcinoma. Radical hysterectomy 8 weeks ago.
+DURATION	8 weeks	P8W
+
+Gastric neuroendocrine tumor. Subtotal gastrectomy 6 months ago.
+DURATION	6 months	P6M
+
+Left frontal lobe glioblastoma multiforme. Craniotomy and tumor resection 4 weeks ago.
+DURATION	4 weeks	P4W
+
+Stage I testicular choriocarcinoma. Orchiectomy performed 7 weeks ago.
+DURATION	7 weeks	P7W
+
+Left upper lobe squamous cell carcinoma. Lobectomy with lymph node dissection 5 months ago.
+DURATION	5 months	P5M
+
+Urethral carcinoma. Radical cystourethrectomy 10 weeks ago.
+DURATION	10 weeks	P10W
+
+Stage IIA melanoma. Wide local excision with sentinel lymph node biopsy 6 weeks ago.
+DURATION	6 weeks	P6W
+
+Ovarian mucinous carcinoma. Total abdominal hysterectomy with bilateral salpingo-oophorectomy 9 weeks ago.
+DURATION	9 weeks	P9W
+
+Left parietal lobe meningioma. Craniotomy and tumor removal 1 month ago.
+DURATION	1 month	P1M
+
+Stage IV lung adenocarcinoma with brain metastasis. Gamma Knife radiosurgery 3 weeks ago.
+DURATION	3 weeks	P3W
+
+Retroperitoneal liposarcoma. Wide local excision with negative margins 7 months ago.
+DURATION	7 months	P7M
+
+Adrenal adenoma. Laparoscopic adrenalectomy 8 weeks ago.
+DURATION	8 weeks	P8W
+
+Stage III esophageal squamous cell carcinoma. Esophagectomy with lymphadenectomy 5 months ago.
+DURATION	5 months	P5M
+
+Pancreatic neuroendocrine tumor. Distal pancreatectomy 4 months ago.
+DURATION	4 months	P4M
+
+Right hip osteosarcoma. Limb-salvage surgery 6 weeks ago.
+DURATION	6 weeks	P6W
+
+Skin melanoma on the back. Wide local excision 3 days ago.
+DURATION	3 days	P3D
+
+Bilateral breast cancer. Bilateral mastectomy with reconstruction 12 weeks ago.
+DURATION	12 weeks	P12W
+
+Retroperitoneal liposarcoma. Resection with negative margins 5 months ago.
+DURATION	5 months	P5M
+
+Renal cell carcinoma. Radical nephrectomy 7 weeks ago.
+DURATION	7 weeks	P7W
+
+Hodgkin's lymphoma. Completed 4 cycles of ABVD chemotherapy over 16 weeks.
+DURATION	16 weeks	P16W
+
+Recurrent prostate cancer. Salvage radiation therapy completed 2 months ago.
+DURATION	2 months	P2M
+
+Uterine leiomyoma. Hysterectomy performed 1 year ago.
+DURATION	1 year	P1Y
+
+Lung carcinoid tumor. Bronchoscopic resection 10 days ago.
+DURATION	10 days	P10D
+
+Esophageal adenocarcinoma. Ivor Lewis esophagectomy 8 weeks ago.
+DURATION	8 weeks	P8W
+
+Soft tissue chondrosarcoma in the thigh. Wide resection 11 months ago.
+DURATION	11 months	P11M
+
+Left ovarian cyst. Laparoscopic cystectomy 3 weeks ago.
+DURATION	3 weeks	P3W
+
+Invasive ductal carcinoma of the breast. Lumpectomy with sentinel lymph node biopsy 5 days ago.
+DURATION	5 days	P5D
+
+Stage II testicular cancer. Orchiectomy performed 4 months ago.
+DURATION	4 months	P4M
+
+Malignant pleural mesothelioma. Pleurectomy and decortication 6 weeks ago.
+DURATION	6 weeks	P6W
+
+Gastrointestinal stromal tumor (GIST) in the stomach. Subtotal gastrectomy 9 months ago.
+DURATION	9 months	P9M
+
+Recurrent bladder carcinoma. Radical cystectomy with ileal conduit 7 days ago.
+DURATION	7 days	P7D
+
+Left parotid gland adenocarcinoma. Superficial parotidectomy 2 months ago.
+DURATION	2 months	P2M
+
+Stage I renal cell carcinoma. Partial nephrectomy 13 weeks ago.
+DURATION	13 weeks	P13W
+
+Rectal adenocarcinoma. Total mesorectal excision 10 weeks ago.
+DURATION	10 weeks	P10W
+
+Left knee osteosarcoma. Limb-sparing surgery 3 months ago.
+DURATION	3 months	P3M
+
+Cervical squamous cell carcinoma. Radical hysterectomy 8 days ago.
+DURATION	8 days	P8D
+
+Pancreatic cystic neoplasm. Distal pancreatectomy with splenectomy 6 weeks ago.
+DURATION	6 weeks	P6W
+
+Stage IIIA non-small cell lung cancer. Chemoradiation completed 5 months ago.
+DURATION	5 months	P5M
+
+Adrenal adenoma. Laparoscopic adrenalectomy 12 days ago.
+DURATION	12 days	P12D
+
+Metastatic melanoma. Immunotherapy treatment ongoing for 7 weeks.
+DURATION	7 weeks	P7W
+
+Glioma. Stereotactic radiosurgery 4 months ago.
+DURATION	4 months	P4M
+
+Right thalamic tumor. Craniotomy and tumor resection 9 weeks ago.
+DURATION	9 weeks	P9W
+
+Recurrent laryngeal cancer. Laryngectomy performed 11 months ago.
+DURATION	11 months	P11M
+
+Ovarian cystadenocarcinoma. Bilateral salpingo-oophorectomy 2 months ago.
+DURATION	2 months	P2M
+
+Prostate adenocarcinoma. Radical prostatectomy 14 weeks ago.
+DURATION	14 weeks	P14W
+
+Gastroesophageal junction adenocarcinoma. Total gastrectomy 5 days ago.
+DURATION	5 days	P5D
+
+Soft tissue synovial sarcoma in the arm. Wide local excision 7 weeks ago.
+DURATION	7 weeks	P7W
+
+Stage I breast cancer. Mastectomy with immediate reconstruction 3 months ago.
+DURATION	3 months	P3M
+
+Hepatocellular carcinoma. Liver transplantation performed 8 months ago.
+DURATION	8 months	P8M
+
+Stage IIA cervical cancer. Radical trachelectomy 6 days ago.
+DURATION	6 days	P6D
+
+Glioblastoma multiforme recurrence. Gamma Knife radiosurgery 4 weeks ago.
+DURATION	4 weeks	P4W
+
+Left adrenal pheochromocytoma. Laparoscopic adrenalectomy 10 months ago.
+DURATION	10 months	P10M
+
+Thyroid papillary carcinoma. Total thyroidectomy 12 weeks ago.
+DURATION	12 weeks	P12W
+
+Renal angiomyolipoma. Partial nephrectomy 9 days ago.
+DURATION	9 days	P9D
+
+Stage III pancreatic cancer. Whipple procedure performed 11 weeks ago.
+DURATION	11 weeks	P11W
+
+Left maxillary sinus squamous cell carcinoma. Maxillectomy 5 months ago.
+DURATION	5 months	P5M
+
+Testicular seminoma. Radical inguinal orchiectomy 8 weeks ago.
+DURATION	8 weeks	P8W
+
+Uterine fibroids. Myomectomy 6 days ago.
+DURATION	6 days	P6D
+
+Colorectal adenocarcinoma. Laparoscopic colectomy 7 months ago.
+DURATION	7 months	P7M
+
+Stage I melanoma on the forearm. Wide excision 3 weeks ago.
+DURATION	3 weeks	P3W
+
+Retroperitoneal leiomyosarcoma. Resection with negative margins 10 weeks ago.
+DURATION	10 weeks	P10W
+
+Thymoma. Thymectomy performed 4 months ago.
+DURATION	4 months	P4M
+
+Ovarian teratoma. Laparoscopic cystectomy 12 days ago.
+DURATION	12 days	P12D
+
+Invasive ductal carcinoma of the breast. Lumpectomy with sentinel lymph node biopsy 5 days ago.
+DURATION	5 days	P5D
+
+Stage II testicular cancer. Orchiectomy performed 4 months ago.
+DURATION	4 months	P4M
+
+Malignant pleural mesothelioma. Pleurectomy and decortication 6 weeks ago.
+DURATION	6 weeks	P6W
+
+Gastrointestinal stromal tumor (GIST) in the stomach. Subtotal gastrectomy 9 months ago.
+DURATION	9 months	P9M
+
+Rectal adenocarcinoma. Total mesorectal excision 10 weeks ago.
+DURATION	10 weeks	P10W
+
+Left knee osteosarcoma. Limb-sparing surgery 3 months ago.
+DURATION	3 months	P3M
+
+Cervical squamous cell carcinoma. Radical hysterectomy 8 days ago.
+DURATION	8 days	P8D
+
+Pancreatic cystic neoplasm. Distal pancreatectomy with splenectomy 6 weeks ago.
+DURATION	6 weeks	P6W
+
+Stage IIIA non-small cell lung cancer. Chemoradiation completed 5 months ago.
+DURATION	5 months	P5M
+
+Adrenal adenoma. Laparoscopic adrenalectomy 12 days ago.
+DURATION	12 days	P12D
+
+Metastatic melanoma. Immunotherapy treatment ongoing for 7 weeks.
+DURATION	7 weeks	P7W
+
+Glioma. Stereotactic radiosurgery 4 months ago.
+DURATION	4 months	P4M
+
+Ovarian cystadenocarcinoma. Bilateral salpingo-oophorectomy 2 months ago.
+DURATION	2 months	P2M
+
+Prostate adenocarcinoma. Radical prostatectomy 14 weeks ago.
+DURATION	14 weeks	P14W
+
+Gastroesophageal junction adenocarcinoma. Total gastrectomy 5 days ago.
+DURATION	5 days	P5D
+
+Soft tissue synovial sarcoma in the arm. Wide local excision 7 weeks ago.
+DURATION	7 weeks	P7W
+
+Stage I breast cancer. Mastectomy with immediate reconstruction 3 months ago.
+DURATION	3 months	P3M
+
+Hepatocellular carcinoma. Liver transplantation performed 8 months ago.
+DURATION	8 months	P8M
+
+Stage IIA cervical cancer. Radical trachelectomy 6 days ago.
+DURATION	6 days	P6D
+
+Glioblastoma multiforme recurrence. Gamma Knife radiosurgery 4 weeks ago.
+DURATION	4 weeks	P4W
+
+Renal angiomyolipoma. Partial nephrectomy 9 days ago.
+DURATION	9 days	P9D
+
+Stage III pancreatic cancer. Whipple procedure performed 11 weeks ago.
+DURATION	11 weeks	P11W
+
+Left maxillary sinus squamous cell carcinoma. Maxillectomy 5 months ago.
+DURATION	5 months	P5M
+
+Testicular seminoma. Radical inguinal orchiectomy 8 weeks ago.
+DURATION	8 weeks	P8W
+
+Uterine fibroids. Myomectomy 6 days ago.
+DURATION	6 days	P6D
+
+Colorectal adenocarcinoma. Laparoscopic colectomy 7 months ago.
+DURATION	7 months	P7M
+
+Stage I melanoma on the forearm. Wide excision 3 weeks ago.
+DURATION	3 weeks	P3W
+
+Retroperitoneal leiomyosarcoma. Resection with negative margins 10 weeks ago.
+DURATION	10 weeks	P10W
+
+Thymoma. Thymectomy performed 4 months ago.
+DURATION	4 months	P4M
+
+Ovarian teratoma. Laparoscopic cystectomy 12 days ago.
+DURATION	12 days	P12D
+
+Hodgkin's lymphoma. Completed 4 cycles of ABVD chemotherapy over 16 weeks.
+DURATION	16 weeks	P16W
+
+Recurrent prostate cancer. Salvage radiation therapy completed 2 months ago.
+DURATION	2 months	P2M
+
+Uterine leiomyoma. Hysterectomy performed 1 year ago.
+DURATION	1 year	P1Y
+
+Lung carcinoid tumor. Bronchoscopic resection 10 days ago.
+DURATION	10 days	P10D
+
+Pancreatic neuroendocrine tumor. Distal pancreatectomy 4 months ago.
+DURATION	4 months	P4M
+
+Right hip osteosarcoma. Limb-salvage surgery 6 weeks ago.
+DURATION	6 weeks	P6W
+
+Skin melanoma on the back. Wide local excision 3 days ago.
+DURATION	3 days	P3D
+
+Bilateral breast cancer. Bilateral mastectomy with reconstruction 12 weeks ago.
+DURATION	12 weeks	P12W
+
+Retroperitoneal liposarcoma. Resection with negative margins 5 months ago.
+DURATION	5 months	P5M
+
+Renal cell carcinoma. Radical nephrectomy 7 weeks ago.
+DURATION	7 weeks	P7W
+
+Recurrent bladder carcinoma. Radical cystectomy with ileal conduit 7 days ago.
+DURATION	7 days	P7D
+
+Left parotid gland adenocarcinoma. Superficial parotidectomy 2 months ago.
+DURATION	2 months	P2M
+
+Stage I renal cell carcinoma. Partial nephrectomy 13 weeks ago.
+DURATION	13 weeks	P13W
+
+Ovarian nodule biopsy. Suspicious for serous carcinoma. Fine needle aspiration done 4 weeks ago.
+DURATION	4 weeks	P4W
+
+Left lung squamous cell carcinoma. Lobectomy with lymph node dissection 9 days ago.
+DURATION	9 days	P9D
+
+Thyroid follicular neoplasm. Hemithyroidectomy performed 6 weeks ago.
+DURATION	6 weeks	P6W
+
+Recurrent esophageal adenocarcinoma. Esophagogastrectomy 14 months ago.
+DURATION	14 months	P14M
+
+Prostatic hyperplasia. Transurethral resection of the prostate 8 days ago.
+DURATION	8 days	P8D
+
+Small bowel gastrointestinal stromal tumor (GIST). Bowel resection 11 weeks ago.
+DURATION	11 weeks	P11W
+
+Right ovarian serous cystadenoma. Laparoscopic cystectomy 5 weeks ago.
+DURATION	5 weeks	P5W
+
+Esophageal squamous cell carcinoma. Ivor Lewis esophagectomy 7 days ago.
+DURATION	7 days	P7D
+
+Pancreatic pseudocyst. Drainage procedure performed 2 months ago.
+DURATION	2 months	P2M
+
+Stage IV non-Hodgkin lymphoma. Completed 6 cycles of R-CHOP chemotherapy over 24 weeks.
+DURATION	24 weeks	P24W
+
+Renal oncocytoma. Nephron-sparing surgery 3 weeks ago.
+DURATION	3 weeks	P3W
+
+Thyroid medullary carcinoma. Total thyroidectomy with central neck dissection 9 months ago.
+DURATION	9 months	P9M
+
+Soft tissue lipoma on the forearm. Excisional biopsy 4 days ago.
+DURATION	4 days	P4D
+
+Stage IIIB cervical cancer. Concurrent chemoradiation completed 11 weeks ago.
+DURATION	11 weeks	P11W
+
+Left inguinal hernia. Hernia repair surgery 6 days ago.
+DURATION	6 days	P6D
+
+Glioblastoma multiforme recurrence. Tumor re-resection and adjuvant therapy ongoing for 8 weeks.
+DURATION	8 weeks	P8W
+
+Stage IIA colon cancer. Colectomy with lymph node dissection 8 weeks ago.
+DURATION	8 weeks	P8W
+
+Right renal angiomyolipoma. Partial nephrectomy 10 days ago.
+DURATION	10 days	P10D
+
+Thyroid papillary carcinoma. Total thyroidectomy with central neck dissection 7 months ago.
+DURATION	7 months	P7M
+
+Stage III esophageal adenocarcinoma. Esophagectomy with gastric pull-up 12 weeks ago.
+DURATION	12 weeks	P12W
+
+Left ovarian teratoma. Laparoscopic cystectomy 6 days ago.
+DURATION	6 days	P6D
+
+Soft tissue leiomyoma on the thigh. Excision 4 months ago.
+DURATION	4 months	P4M
+
+Stage IB lung adenocarcinoma. Lobectomy with lymph node dissection 9 days ago.
+DURATION	9 days	P9D
+
+Recurrent bladder carcinoma. Radical cystectomy with ileal conduit 5 weeks ago.
+DURATION	5 weeks	P5W
+
+Right maxillary ameloblastoma. Maxillectomy 11 months ago.
+DURATION	11 months	P11M
+
+Stage I pancreatic neuroendocrine tumor. Enucleation 3 days ago.
+DURATION	3 days	P3D
+
+Left ovarian cystadenoma. Laparoscopic cystectomy 8 weeks ago.
+DURATION	8 weeks	P8W
+
+Colorectal adenocarcinoma. Laparoscopic colectomy 4 months ago.
+DURATION	4 months	P4M
+
+Right testicular seminoma. Orchiectomy 7 days ago.
+DURATION	7 days	P7D
+
+Stage IV gastric adenocarcinoma. Total gastrectomy 6 weeks ago.
+DURATION	6 weeks	P6W
+
+Left lung squamous cell carcinoma. Lobectomy with lymph node dissection 10 days ago.
+DURATION	10 days	P10D
+
+Stage III ovarian cancer. Completed 4 cycles of chemotherapy over 16 weeks.
+DURATION	16 weeks	P16W
+
+Uterine fibroids. Myomectomy 5 days ago.
+DURATION	5 days	P5D
+
+Glioblastoma multiforme recurrence. Tumor re-resection and adjuvant therapy ongoing for 9 weeks.
+DURATION	9 weeks	P9W
+
+Right adrenal adenoma. Laparoscopic adrenalectomy 3 months ago.
+DURATION	3 months	P3M
+
+Stage IIIB non-small cell lung cancer. Chemoradiation completed 8 weeks ago.
+DURATION	8 weeks	P8W
+
+Left ovarian serous cystadenocarcinoma. Bilateral salpingo-oophorectomy 7 weeks ago.
+DURATION	7 weeks	P7W
+
+Stage I rectal cancer. Low anterior resection with coloanal anastomosis 12 days ago.
+DURATION	12 days	P12D
+
+Soft tissue liposarcoma in the thigh. Wide local excision 6 months ago.
+DURATION	6 months	P6M
+
+Recurrent prostate cancer. Salvage radiation therapy completed 4 weeks ago.
+DURATION	4 weeks	P4W
+
+Stage IIA endometrial adenocarcinoma. Total abdominal hysterectomy 9 days ago.
+DURATION	9 days	P9D
+
+Gastrointestinal stromal tumor (GIST) in the small intestine. Bowel resection 11 weeks ago.
+DURATION	11 weeks	P11W
+
+Left maxillary sinus squamous cell carcinoma. Maxillectomy 5 months ago.
+DURATION	5 months	P5M
+
+Thyroid follicular adenoma. Hemithyroidectomy performed 8 days ago.
+DURATION	8 days	P8D
+
+Stage III pancreatic cancer. Whipple procedure performed 6 weeks ago.
+DURATION	6 weeks	P6W
+
+Renal oncocytoma. Nephron-sparing surgery 10 months ago.
+DURATION	10 months	P10M
+
+Left inguinal hernia. Hernia repair surgery 4 days ago.
+DURATION	4 days	P4D
+
+Stage IV non-Hodgkin lymphoma. Completed 6 cycles of R-CHOP chemotherapy over 24 weeks.
+DURATION	24 weeks	P24W
+
+Right renal angiomyolipoma. Partial nephrectomy 10 days ago.
+DURATION	10 days	P10D
+
+Thyroid papillary carcinoma. Total thyroidectomy with central neck dissection 7 months ago.
+DURATION	7 months	P7M
+
+Stage III esophageal adenocarcinoma. Esophagectomy with gastric pull-up 12 weeks ago.
+DURATION	12 weeks	P12W
+
+Left ovarian teratoma. Laparoscopic cystectomy 6 days ago.
+DURATION	6 days	P6D
+
+Soft tissue leiomyoma on the thigh. Excision 4 months ago.
+DURATION	4 months	P4M
+
+Stage IB lung adenocarcinoma. Lobectomy with lymph node dissection 9 days ago.
+DURATION	9 days	P9D
+
+Recurrent bladder carcinoma. Radical cystectomy with ileal conduit 5 weeks ago.
+DURATION	5 weeks	P5W
+
+Right maxillary ameloblastoma. Maxillectomy 11 months ago.
+DURATION	11 months	P11M
+
+Stage I colon adenocarcinoma. Colectomy with lymph node dissection 2 years ago.
+DURATION	2 years	P2Y
+
+Right ovarian cystadenoma. Laparoscopic cystectomy 3 years ago.
+DURATION	3 years	P3Y
+
+Soft tissue sarcoma in the arm. Wide local excision 4 years ago.
+DURATION	4 years	P4Y
+
+Recurrent prostate cancer. Salvage radiation therapy completed 5 years ago.
+DURATION	5 years	P5Y
+
+Left lung adenocarcinoma. Lobectomy with lymph node dissection 6 years ago.
+DURATION	6 years	P6Y
+
+Stage II pancreatic neuroendocrine tumor. Distal pancreatectomy 7 years ago.
+DURATION	7 years	P7Y
+
+Right kidney angiomyolipoma. Partial nephrectomy 8 years ago.
+DURATION	8 years	P8Y
+
+Stage III ovarian cancer. Completed 2 cycles of chemotherapy over 9 years.
+DURATION	9 years	P9Y
+
+Glioblastoma multiforme recurrence. Tumor debulking surgery 10 years ago.
+DURATION	10 years	P10Y
+
+Left hip osteosarcoma. Limb-salvage surgery 11 years ago.
+DURATION	11 years	P11Y
+
+Stage I breast cancer. Lumpectomy with sentinel lymph node biopsy 12 years ago.
+DURATION	12 years	P12Y
+
+Recurrent bladder carcinoma. Radical cystectomy with ileal conduit 13 years ago.
+DURATION	13 years	P13Y
+
+Thyroid papillary carcinoma. Total thyroidectomy 14 years ago.
+DURATION	14 years	P14Y
+
+Prostate adenocarcinoma. Radical prostatectomy 15 years ago.
+DURATION	15 years	P15Y
+
+Soft tissue leiomyoma on the thigh. Excision 16 years ago.
+DURATION	16 years	P16Y
+
+Left ovarian serous cystadenocarcinoma. Bilateral salpingo-oophorectomy 17 years ago.
+DURATION	17 years	P17Y
+
+Right adrenal adenoma. Laparoscopic adrenalectomy 18 years ago.
+DURATION	18 years	P18Y
+
+Stage III esophageal adenocarcinoma. Esophagectomy with gastric pull-up 19 years ago.
+DURATION	19 years	P19Y
+
+Left ovarian teratoma. Laparoscopic cystectomy 20 years ago.
+DURATION	20 years	P20Y
+
+Stage IIB lung squamous cell carcinoma. Lobectomy with lymph node dissection 21 years ago.
+DURATION	21 years	P21Y
+
+Right maxillary ameloblastoma. Maxillectomy 22 years ago.
+DURATION	22 years	P22Y
+
+Renal oncocytoma. Nephron-sparing surgery 23 years ago.
+DURATION	23 years	P23Y
+
+Left lung carcinoid tumor. Bronchoscopic resection 24 years ago.
+DURATION	24 years	P24Y
+
+Stage IV gastric adenocarcinoma. Total gastrectomy 25 years ago.
+DURATION	25 years	P25Y
+
+Right ovarian cystadenoma. Laparoscopic cystectomy 26 years ago.
+DURATION	26 years	P26Y
+
+Soft tissue sarcoma in the arm. Wide local excision 27 years ago.
+DURATION	27 years	P27Y
+
+Recurrent prostate cancer. Salvage radiation therapy completed 28 years ago.
+DURATION	28 years	P28Y
+
+Left lung adenocarcinoma. Lobectomy with lymph node dissection 29 years ago.
+DURATION	29 years	P29Y
+
+Stage II pancreatic neuroendocrine tumor. Distal pancreatectomy 30 years ago.
+DURATION	30 years	P30Y
+
+Right kidney angiomyolipoma. Partial nephrectomy 31 years ago.
+DURATION	31 years	P31Y
+
+Stage III ovarian cancer. Completed 2 cycles of chemotherapy over 32 years.
+DURATION	32 years	P32Y
+
+Glioblastoma multiforme recurrence. Tumor debulking surgery 33 years ago.
+DURATION	33 years	P33Y
+
+Left hip osteosarcoma. Limb-salvage surgery 34 years ago.
+DURATION	34 years	P34Y
+
+Stage I breast cancer. Lumpectomy with sentinel lymph node biopsy 35 years ago.
+DURATION	35 years	P35Y
+
+Recurrent bladder carcinoma. Radical cystectomy with ileal conduit 36 years ago.
+DURATION	36 years	P36Y
+
+Thyroid papillary carcinoma. Total thyroidectomy 37 years ago.
+DURATION	37 years	P37Y
+
+Prostate adenocarcinoma. Radical prostatectomy 38 years ago.
+DURATION	38 years	P38Y
+
+Soft tissue leiomyoma on the thigh. Excision 39 years ago.
+DURATION	39 years	P39Y
+
+Left ovarian serous cystadenocarcinoma. Bilateral salpingo-oophorectomy 40 years ago.
+DURATION	40 years	P40Y
+
+Right adrenal adenoma. Laparoscopic adrenalectomy 41 years ago.
+DURATION	41 years	P41Y
+
+Stage III esophageal adenocarcinoma. Esophagectomy with gastric pull-up 42 years ago.
+DURATION	42 years	P42Y
+
+Left ovarian teratoma. Laparoscopic cystectomy 43 years ago.
+DURATION	43 years	P43Y
+
+Stage IIB lung squamous cell carcinoma. Lobectomy with lymph node dissection 44 years ago.
+DURATION	44 years	P44Y
+
+Right maxillary ameloblastoma. Maxillectomy 45 years ago.
+DURATION	45 years	P45Y
+
+Renal oncocytoma. Nephron-sparing surgery 46 years ago.
+DURATION	46 years	P46Y
+
+Left lung carcinoid tumor. Bronchoscopic resection 47 years ago.
+DURATION	47 years	P47Y
+
+Stage IV gastric adenocarcinoma. Total gastrectomy 48 years ago.
+DURATION	48 years	P48Y
+
+Right ovarian cystadenoma. Laparoscopic cystectomy 49 years ago.
+DURATION	49 years	P49Y
+
+Soft tissue sarcoma in the arm. Wide local excision 50 years ago.
+DURATION	50 years	P50Y
+
+Recurrent prostate cancer. Salvage radiation therapy completed 51 years ago.
+DURATION	51 years	P51Y
+
+Rectal adenocarcinoma. Total mesorectal excision 10 weeks ago.
+DURATION	10 weeks	P10W
+
+Left knee osteosarcoma. Limb-sparing surgery 3 months ago.
+DURATION	3 months	P3M
+
+Cervical squamous cell carcinoma. Radical hysterectomy 8 days ago.
+DURATION	8 days	P8D
+
+Pancreatic cystic neoplasm. Distal pancreatectomy with splenectomy 6 weeks ago.
+DURATION	6 weeks	P6W
+
+Stage IIIA non-small cell lung cancer. Chemoradiation completed 5 months ago.
+DURATION	5 months	P5M
+
+Adrenal adenoma. Laparoscopic adrenalectomy 12 days ago.
+DURATION	12 days	P12D
+
+Metastatic melanoma. Immunotherapy treatment ongoing for 7 weeks.
+DURATION	7 weeks	P7W
+
+Glioma. Stereotactic radiosurgery 4 months ago.
+DURATION	4 months	P4M
+
+Right thalamic tumor. Craniotomy and tumor resection 9 weeks ago.
+DURATION	9 weeks	P9W
+
+Recurrent laryngeal cancer. Laryngectomy performed 11 months ago.
+DURATION	11 months	P11M
+
+Breast fibroadenoma. Excisional biopsy 2 weeks ago.
+DURATION	2 weeks	P2W
+
+Left hip osteosarcoma. Limb-sparing surgery 5 months ago.
+DURATION	5 months	P5M
+
+Prostate adenocarcinoma. Radical prostatectomy 8 days ago.
+DURATION	8 days	P8D
+
+Ovarian serous cystadenocarcinoma. Bilateral salpingo-oophorectomy 6 weeks ago.
+DURATION	6 weeks	P6W
+
+Stage IIA colorectal cancer. Colectomy with lymph node dissection 4 months ago.
+DURATION	4 months	P4M
+
+Uterine fibroids. Myomectomy 10 days ago.
+DURATION	10 days	P10D
+
+Liver hemangioma. Radiofrequency ablation 7 weeks ago.
+DURATION	7 weeks	P7W
+
+Pancreatic adenocarcinoma. Whipple procedure performed 3 months ago.
+DURATION	3 months	P3M
+
+Stage II esophageal squamous cell carcinoma. Esophagectomy 9 days ago.
+DURATION	9 days	P9D
+
+Left ovarian dermoid cyst. Laparoscopic cystectomy 8 weeks ago.
+DURATION	8 weeks	P8W
+
+Testicular seminoma. Orchiectomy 11 months ago.
+DURATION	11 months	P11M
+
+Thyroid papillary carcinoma. Total thyroidectomy 5 weeks ago.
+DURATION	5 weeks	P5W
+
+Right lung adenocarcinoma. Lobectomy with lymph node dissection 2 months ago.
+DURATION	2 months	P2M
+
+Stage IB cervical cancer. Radical hysterectomy 6 days ago.
+DURATION	6 days	P6D
+
+Colonic polyp. Polypectomy performed 3 weeks ago.
+DURATION	3 weeks	P3W
+
+Right kidney angiomyolipoma. Partial nephrectomy 4 months ago.
+DURATION	4 months	P4M
+
+Stage IIIA lung squamous cell carcinoma. Chemoradiation completed 8 weeks ago.
+DURATION	8 weeks	P8W
+
+Left adrenal adenoma. Laparoscopic adrenalectomy 1 month ago.
+DURATION	1 month	P1M
+
+Recurrent melanoma. Excision and sentinel lymph node biopsy 7 days ago.
+DURATION	7 days	P7D
+
+Brain metastasis from breast cancer. Gamma Knife radiosurgery 5 weeks ago.
+DURATION	5 weeks	P5W
+
+Left ovarian cystadenocarcinoma. Laparoscopic cystectomy 6 months ago.
+DURATION	6 months	P6M
+
+Stage II pancreatic neuroendocrine tumor. Distal pancreatectomy 3 days ago.
+DURATION	3 days	P3D
+
+Right hip osteosarcoma. Limb-sparing surgery 8 months ago.
+DURATION	8 months	P8M
+
+Prostate adenocarcinoma. Radical prostatectomy 9 weeks ago.
+DURATION	9 weeks	P9W
+
+Left lung adenocarcinoma. Lobectomy with lymph node dissection 2 years ago.
+DURATION	2 years	P2Y
+
+Stage I ovarian cancer. Total abdominal hysterectomy 1 week ago.
+DURATION	1 week	P1W
+
+Bladder transitional cell carcinoma. Radical cystectomy 4 months ago.
+DURATION	4 months	P4M
+
+Right ovarian serous cystadenocarcinoma. Bilateral salpingo-oophorectomy 7 days ago.
+DURATION	7 days	P7D
+
+Glioblastoma multiforme recurrence. Tumor debulking surgery 2 months ago.
+DURATION	2 months	P2M
+
+Right thalamic tumor. Craniotomy and tumor resection 1 year ago.
+DURATION	1 year	P1Y
+
+Recurrent laryngeal cancer. Laryngectomy performed 6 weeks ago.
+DURATION	6 weeks	P6W
+
+Pancreatic cystic neoplasm. Distal pancreatectomy with splenectomy 9 weeks ago.
+DURATION	9 weeks	P9W
+
+Stage IIIA non-small cell lung cancer. Chemoradiation completed 8 months ago.
+DURATION	8 months	P8M
+
+Adrenal adenoma. Laparoscopic adrenalectomy 15 days ago.
+DURATION	15 days	P15D
+
+Metastatic melanoma. Immunotherapy treatment ongoing for 8 weeks.
+DURATION	8 weeks	P8W
+
+Glioma. Stereotactic radiosurgery 5 months ago.
+DURATION	5 months	P5M
+
+Right thalamic tumor. Craniotomy and tumor resection 10 weeks ago.
+DURATION	10 weeks	P10W
+
+Recurrent laryngeal cancer. Laryngectomy performed 12 months ago.
+DURATION	12 months	P12M
+
+Breast fibroadenoma. Excisional biopsy 4 days ago.
+DURATION	4 days	P4D
+
+Left hip osteosarcoma. Limb-sparing surgery 10 months ago.
+DURATION	10 months	P10M
+
+Prostate adenocarcinoma. Radical prostatectomy 11 weeks ago.
+DURATION	11 weeks	P11W
+
+Ovarian serous cystadenocarcinoma. Bilateral salpingo-oophorectomy 9 days ago.
+DURATION	9 days	P9D
+
+Stage IIA colorectal cancer. Colectomy with lymph node dissection 6 months ago.
+DURATION	6 months	P6M
+
+Uterine fibroids. Myomectomy 12 days ago.
+DURATION	12 days	P12D
+
+Liver hemangioma. Radiofrequency ablation 9 weeks ago.
+DURATION	9 weeks	P9W
+
+Pancreatic adenocarcinoma. Whipple procedure performed 5 months ago.
+DURATION	5 months	P5M
+
+Stage II esophageal squamous cell carcinoma. Esophagectomy 11 days ago.
+DURATION	11 days	P11D
+
+Left ovarian dermoid cyst. Laparoscopic cystectomy 10 weeks ago.
+DURATION	10 weeks	P10W
+
+Testicular seminoma. Orchiectomy 2 years ago.
+DURATION	2 years	P2Y
+
+Thyroid papillary carcinoma. Total thyroidectomy 7 weeks ago.
+DURATION	7 weeks	P7W
+
+Right lung adenocarcinoma. Lobectomy with lymph node dissection 4 months ago.
+DURATION	4 months	P4M
+
+Stage IB cervical cancer. Radical hysterectomy 8 days ago.
+DURATION	8 days	P8D
+
+Colonic polyp. Polypectomy performed 5 weeks ago.
+DURATION	5 weeks	P5W
+
+Right kidney angiomyolipoma. Partial nephrectomy 6 months ago.
+DURATION	6 months	P6M
+
+Stage IIIA lung squamous cell carcinoma. Chemoradiation completed 10 weeks ago.
+DURATION	10 weeks	P10W
+
+Left adrenal adenoma. Laparoscopic adrenalectomy 3 months ago.
+DURATION	3 months	P3M
+
+Recurrent melanoma. Excision and sentinel lymph node biopsy 9 days ago.
+DURATION	9 days	P9D
+
+Brain metastasis from breast cancer. Gamma Knife radiosurgery 7 weeks ago.
+DURATION	7 weeks	P7W
+
+Left ovarian cystadenocarcinoma. Laparoscopic cystectomy 8 months ago.
+DURATION	8 months	P8M
+
+Stage II pancreatic neuroendocrine tumor. Distal pancreatectomy 6 days ago.
+DURATION	6 days	P6D
+
+Right hip osteosarcoma. Limb-sparing surgery 11 months ago.
+DURATION	11 months	P11M
+
+Prostate adenocarcinoma. Radical prostatectomy 12 weeks ago.
+DURATION	12 weeks	P12W
+
+Left lung adenocarcinoma. Lobectomy with lymph node dissection 3 years ago.
+DURATION	3 years	P3Y
+
+Stage I ovarian cancer. Total abdominal hysterectomy 2 weeks ago.
+DURATION	2 weeks	P2W
+
+Bladder transitional cell carcinoma. Radical cystectomy 5 months ago.
+DURATION	5 months	P5M
+
+Right ovarian serous cystadenocarcinoma. Bilateral salpingo-oophorectomy 8 days ago.
+DURATION	8 days	P8D
+
+Glioblastoma multiforme recurrence. Tumor debulking surgery 3 months ago.
+DURATION	3 months	P3M
+
+Right thalamic tumor. Craniotomy and tumor resection 2 years ago.
+DURATION	2 years	P2Y
+
+Recurrent laryngeal cancer. Laryngectomy performed 7 weeks ago.
+DURATION	7 weeks	P7W
+
+Breast fibroadenoma. Excisional biopsy 5 days ago.
+DURATION	5 days	P5D
+
+Pancreatic cystic neoplasm. Distal pancreatectomy with splenectomy 10 weeks ago.
+DURATION	10 weeks	P10W
+
+Stage IIIA non-small cell lung cancer. Chemoradiation completed 9 months ago.
+DURATION	9 months	P9M
+
+Adrenal adenoma. Laparoscopic adrenalectomy 16 days ago.
+DURATION	16 days	P16D
+
+Metastatic melanoma. Immunotherapy treatment ongoing for 9 weeks.
+DURATION	9 weeks	P9W
+
+Glioma. Stereotactic radiosurgery 6 months ago.
+DURATION	6 months	P6M
+
+Right thalamic tumor. Craniotomy and tumor resection 11 weeks ago.
+DURATION	11 weeks	P11W
+
+Recurrent laryngeal cancer. Laryngectomy performed 13 months ago.
+DURATION	13 months	P13M
+
+Breast fibroadenoma. Excisional biopsy 6 days ago.
+DURATION	6 days	P6D
+
+Left hip osteosarcoma. Limb-sparing surgery 12 months ago.
+DURATION	12 months	P12M
+
+Prostate adenocarcinoma. Radical prostatectomy 13 weeks ago.
+DURATION	13 weeks	P13W
+
+Ovarian serous cystadenocarcinoma. Bilateral salpingo-oophorectomy 10 days ago.
+DURATION	10 days	P10D
+
+Stage IIA colorectal cancer. Colectomy with lymph node dissection 7 months ago.
+DURATION	7 months	P7M
+
+Uterine fibroids. Myomectomy 13 days ago.
+DURATION	13 days	P13D
+
+2 years perimenopausal bleeding.
+DURATION	2 years	P2Y
+
+"pseudomyxoma peritonei 2 years, suspected adnexal masses, increased CEA, CA 19.9, ascites."
+DURATION	2 years	P2Y
+
+Now 7-8 month history of lump lateral to nipple.
+DURATION	7-8 month	P7.8M
+
+H/O R WLE + XRT for ca 13 yr ago.
+DURATION	13 yr	P13Y
+
+Chronic insomnia, lasting for 3 months.
+DURATION	3 months	P3M
+
+Recurrent migraines, ongoing for 8-9 weeks.
+DURATION	8-9 weeks	P8.9W
+
+Ongoing back pain, endured for 2.5 years.
+DURATION	2.5 years	P2.5Y
+
+Patient reported persistent cough for the past 1.5 months.
+DURATION	1.5 months	P1.5M
+
+Severe sinus infections, affecting for 6-7 days.
+DURATION	6-7 days	P6.7D
+
+Intermittent joint pain, documented for 4 weeks.
+DURATION	4 weeks	P4W
+
+Long-standing eczema, present for 7 months.
+DURATION	7 months	P7M
+
+Patient with persistent headaches for the past 5 days.
+DURATION	5 days	P5D
+
+Ongoing digestive issues, lasting 11-12 weeks.
+DURATION	11-12 weeks	P11.12W
+
+Report of insomnia, affecting for 2 months.
+DURATION	2 months	P2M
+
+Chronic fatigue syndrome, ongoing for 1.8 years.
+DURATION	1.8 years	P1.8Y
+
+History of recurrent infections for the past 5-6 months.
+DURATION	5-6 months	P5.6M
+
+Persistent skin rash, documented for 2 weeks.
+DURATION	2 weeks	P2W
+
+Mild chest pain, experienced over the last 3 days.
+DURATION	3 days	P3D
+
+Ongoing dental issues, affecting for 5.5 months.
+DURATION	5.5 months	P5.5M
+
+Patient reported blurred vision for the past 1 week.
+DURATION	1 week	P1W
+
+Recurrent urinary tract infections, lasting 9-10 days.
+DURATION	9-10 days	P9.10D
+
+Chronic knee pain, present for 2 years.
+DURATION	2 years	P2Y
+
+Ongoing allergy symptoms, documented for 4-5 weeks.
+DURATION	4-5 weeks	P4.5W
+
+Patient with persistent cough for approximately 8 months.
+DURATION	8 months	P8M
+
+Recurrent headaches, ongoing for 6-7 days.
+DURATION	6-7 days	P6.7D
+
+Chronic back pain, endured for 1.2 years.
+DURATION	1.2 years	P1.2Y
+
+Patient reported persistent fatigue for the past 2 weeks.
+DURATION	2 weeks	P2W
+
+Severe allergic reactions, affecting for 3-4 months.
+DURATION	3-4 months	P3.4M
+
+Ongoing joint stiffness, documented for 5 days.
+DURATION	5 days	P5D
+
+Long-standing skin condition, present for 9-10 weeks.
+DURATION	9-10 weeks	P9.10W
+
+Patient with persistent cough for the past 7 months.
+DURATION	7 months	P7M
+
+Recurrent digestive issues, lasting 2-3 weeks.
+DURATION	2-3 weeks	P2.3W
+
+Chronic sinus infections, ongoing for 1.5 years.
+DURATION	1.5 years	P1.5Y
+
+History of recurrent migraines for the past 4 weeks.
+DURATION	4 weeks	P4W
+
+Ongoing joint pain, documented for 8-9 months.
+DURATION	8-9 months	P8.9M
+
+Patient reported persistent back pain for the past 3 days.
+DURATION	3 days	P3D
+
+Severe eczema flare-up, lasting for 5-6 weeks.
+DURATION	5-6 weeks	P5.6W
+
+Recurrent headaches, ongoing for 10 days.
+DURATION	10 days	P10D
+
+Chronic digestive issues, endured for 2.5 years.
+DURATION	2.5 years	P2.5Y
+
+Patient with persistent joint swelling for the past 6-7 weeks.
+DURATION	6-7 weeks	P6.7W
+
+Long-standing fatigue, present for 11-12 months.
+DURATION	11-12 months	P11.12M
+
+Recurrent sinus infections, lasting 4 days.
+DURATION	4 days	P4D
+
+Ongoing dental issues, affecting for 7-8 weeks.
+DURATION	7-8 weeks	P7.8W
+
+History of recurrent skin rashes for the past 1.8 years.
+DURATION	1.8 years	P1.8Y
+
+Persistent chest pain, documented for 2 weeks.
+DURATION	2 weeks	P2W
+
+Chronic urinary tract infections, ongoing for 5-6 months.
+DURATION	5-6 months	P5.6M
+
+Patient reported persistent cough for the past 9 days.
+DURATION	9 days	P9D
+
+Severe joint pain, endured for 3.5 years.
+DURATION	3.5 years	P3.5Y
+
+Ongoing skin irritation, lasting 1 week.
+DURATION	1 week	P1W
+
+Recurrent migraines, affecting for 12-13 weeks.
+DURATION	12-13 weeks	P12.13W
+
+Chronic back pain, present for 2.2 years.
+DURATION	2.2 years	P2.2Y
+
+Patient with persistent fatigue for the past 4 weeks.
+DURATION	4 weeks	P4W
+
+Severe allergic reactions, ongoing for 7-8 months.
+DURATION	7-8 months	P7.8M
+
+Recurrent joint stiffness, lasting 6 days.
+DURATION	6 days	P6D
+
+Chronic sinus infections, documented for 1.2 years.
+DURATION	1.2 years	P1.2Y
+
+Patient reported persistent headaches for the past 6 days.
+DURATION	6 days	P6D
+
+Ongoing digestive issues, affecting for 10-11 weeks.
+DURATION	10-11 weeks	P10.11W
+
+Recurrent joint pain, ongoing for 2.5 months.
+DURATION	2.5 months	P2.5M
+
+History of persistent skin rashes for the past 8-9 weeks.
+DURATION	8-9 weeks	P8.9W
+
+Severe chest pain, present for 13 days.
+DURATION	13 days	P13D
+
+Chronic back pain, documented for 3.5 years.
+DURATION	3.5 years	P3.5Y
+
+Patient with ongoing joint swelling for the past 7-8 days.
+DURATION	7-8 days	P7.8D
+
+Recurrent migraines, affecting for 5 weeks.
+DURATION	5 weeks	P5W
+
+Long-standing urinary tract infections, lasting 1.5 years.
+DURATION	1.5 years	P1.5Y
+
+Persistent joint pain, ongoing for 9-10 months.
+DURATION	9-10 months	P9.10M
+
+Ongoing dental issues, present for 2.2 years.
+DURATION	2.2 years	P2.2Y
+
+History of recurrent headaches for the past 3 weeks.
+DURATION	3 weeks	P3W
+
+Chronic fatigue, documented for 4.5 years.
+DURATION	4.5 years	P4.5Y
+
+Patient reported persistent joint stiffness for the past 8 days.
+DURATION	8 days	P8D
+
+Recurrent sinus infections, ongoing for 6-7 months.
+DURATION	6-7 months	P6.7M
+
+Severe back pain, lasting for 2 weeks.
+DURATION	2 weeks	P2W
+
+Ongoing skin irritation, affecting for 11-12 weeks.
+DURATION	11-12 weeks	P11.12W
+
+Patient with persistent chest pain for the past 5 days.
+DURATION	5 days	P5D
+
+Chronic joint pain, present for 1.8 years.
+DURATION	1.8 years	P1.8Y
+
+Recurrent migraines, ongoing for 4.5 months.
+DURATION	4.5 months	P4.5M
+
+History of persistent back pain for the past 7-8 days.
+DURATION	7-8 days	P7.8D
+
+Ongoing digestive issues, documented for 13 weeks.
+DURATION	13 weeks	P13W
+
+Severe joint pain, affecting for 1.2 years.
+DURATION	1.2 years	P1.2Y
+
+Chronic sinus infections, present for 5-6 weeks.
+DURATION	5-6 weeks	P5.6W
+
+Patient with ongoing headaches for the past 9 days.
+DURATION	9 days	P9D
+
+Recurrent joint stiffness, lasting 2.5 months.
+DURATION	2.5 months	P2.5M
+
+Long-standing skin irritation, ongoing for 8-9 days.
+DURATION	8-9 days	P8.9D
+
+Persistent chest pain, documented for 6 weeks.
+DURATION	6 weeks	P6W
+
+Chronic urinary tract infections, present for 1.5 years.
+DURATION	1.5 years	P1.5Y
+
+Patient reported ongoing joint pain for the past 10 days.
+DURATION	10 days	P10D
+
+History of recurrent skin rashes for the past 4.5 weeks.
+DURATION	4.5 weeks	P4.5W
+
+Severe back pain, affecting for 11-12 months.
+DURATION	11-12 months	P11.12M
+
+Ongoing dental issues, lasting 3 days.
+DURATION	3 days	P3D
+
+Recurrent migraines, documented for 7-8 weeks.
+DURATION	7-8 weeks	P7.8W
+
+Chronic joint pain, present for 1.8 years.
+DURATION	1.8 years	P1.8Y
+
+Patient with ongoing chest pain for the past 5-6 days.
+DURATION	5-6 days	P5.6D
+
+Chronic fatigue, ongoing for 3 months.
+DURATION	3 months	P3M
+
+Ongoing joint swelling, documented for 9-10 weeks.
+DURATION	9-10 weeks	P9.10W
+
+History of persistent headaches for the past 2.2 years.
+DURATION	2.2 years	P2.2Y
+
+Recurrent sinus infections, affecting for 4 days.
+DURATION	4 days	P4D
+
+Severe joint pain, present for 6-7 months.
+DURATION	6-7 months	P6.7M
+
+Chronic back pain, documented for 1.5 years.
+DURATION	1.5 years	P1.5Y
+
+Patient with ongoing digestive issues for the past 8 days.
+DURATION	8 days	P8D
+
+Ongoing skin irritation, affecting for 5-6 weeks.
+DURATION	5-6 weeks	P5.6W
+
+History of persistent migraines for the past 3 days.
+DURATION	3 days	P3D
+
+Chronic chest pain, present for 10-11 months.
+DURATION	10-11 months	P10.11M
+
+Recurrent joint stiffness, documented for 7 weeks.
+DURATION	7 weeks	P7W
+
+Long-standing urinary tract infections, lasting 1.8 years.
+DURATION	1.8 years	P1.8Y
+
+Patient reported ongoing headaches for the past 6-7 days.
+DURATION	6-7 days	P6.7D
+
+Ongoing dental issues, affecting for 12-13 weeks.
+DURATION	12-13 weeks	P12.13W
+
+Recurrent migraines, documented for 9 days.
+DURATION	9 days	P9D
+
+Severe joint pain, present for 4.5 months.
+DURATION	4.5 months	P4.5M
+
+Chronic fatigue, ongoing for 1.2 years.
+DURATION	1.2 years	P1.2Y
+
+Patient with persistent chest pain for the past 7-8 days.
+DURATION	7-8 days	P7.8D
+
+Recurrent sinus infections, lasting 3 months.
+DURATION	3 months	P3M
+
+Ongoing skin irritation, documented for 8-9 weeks.
+DURATION	8-9 weeks	P8.9W
+
+History of persistent headaches for the past 2.5 years.
+DURATION	2.5 years	P2.5Y
+
+Chronic back pain, affecting for 5 days.
+DURATION	5 days	P5D
+
+Patient reported ongoing joint swelling for the past 11-12 weeks.
+DURATION	11-12 weeks	P11.12W
+
+Severe migraines, present for 1.5 years.
+DURATION	1.5 years	P1.5Y
+
+Recurrent chest pain, documented for 6-7 days.
+DURATION	6-7 days	P6.7D
+
+Ongoing digestive issues, lasting 2.2 months.
+DURATION	2.2 months	P2.2M
+
+Chronic joint pain, ongoing for 13 days.
+DURATION	13 days	P13D
+
+Patient with persistent skin rashes for the past 5.5 weeks.
+DURATION	5.5 weeks	P5.5W
+
+Recurrent migraines, affecting for 8 months.
+DURATION	8 months	P8M
+
+History of persistent back pain for the past 3.5 weeks.
+DURATION	3.5 weeks	P3.5W
+
+Severe joint pain, documented for 10 days.
+DURATION	10 days	P10D
+
+Chronic fatigue, ongoing for 2.5 months.
+DURATION	2.5 months	P2.5M
+
+Patient reported ongoing dental issues for the past 9-10 weeks.
+DURATION	9-10 weeks	P9.10W
+
+Recurrent sinus infections, lasting 4.5 years.
+DURATION	4.5 years	P4.5Y
+
+Ongoing headaches, affecting for 6-7 weeks.
+DURATION	6-7 weeks	P6.7W
+
+History of persistent joint pain for the past 1 week.
+DURATION	1 week	P1W
+
+Chronic back pain, present for 5.5 months.
+DURATION	5.5 months	P5.5M
+
+Patient with ongoing chest pain for the past 8-9 days.
+DURATION	8-9 days	P8.9D
+
+Severe migraines, documented for 11 weeks.
+DURATION	11 weeks	P11W
+
+Recurrent joint swelling, lasting 2.2 years.
+DURATION	2.2 years	P2.2Y
+
+Chronic sinus infections, affecting for 13 days.
+DURATION	13 days	P13D
+
+Ongoing skin irritation, present for 7-8 weeks.
+DURATION	7-8 weeks	P7.8W
+
+Patient reported persistent headaches for the past 3.5 months.
+DURATION	3.5 months	P3.5M
+
+Recurrent chest pain, ongoing for 5.5 weeks.
+DURATION	5.5 weeks	P5.5W
+
+History of persistent back pain for the past 10 days.
+DURATION	10 days	P10D
+
+Severe migraines, documented for 7-8 months.
+DURATION	7-8 months	P7.8M
+
+Chronic joint pain, affecting for 1.8 years.
+DURATION	1.8 years	P1.8Y
+
+Patient with ongoing digestive issues for the past 4 days.
+DURATION	4 days	P4D
+
+Ongoing skin irritation, lasting 6-7 weeks.
+DURATION	6-7 weeks	P6.7W
+
+History of persistent headaches for the past 1.2 years.
+DURATION	1.2 years	P1.2Y
+
+Chronic back pain, present for 9-10 months.
+DURATION	9-10 months	P9.10M
+
+Patient reported ongoing joint swelling for the past 13 days.
+DURATION	13 days	P13D
+
+Severe migraines, ongoing for 3 weeks.
+DURATION	3 weeks	P3W
+
+Recurrent chest pain, documented for 4.5 years.
+DURATION	4.5 years	P4.5Y
+
+Ongoing digestive issues, affecting for 7-8 weeks.
+DURATION	7-8 weeks	P7.8W
+
+Chronic joint pain, lasting 11-12 days.
+DURATION	11-12 days	P11.12D
+
+Patient with persistent skin rashes for the past 5 months.
+DURATION	5 months	P5M
+
+Recurrent migraines, present for 2.2 years.
+DURATION	2.2 years	P2.2Y
+
+History of persistent back pain for the past 5.5 weeks.
+DURATION	5.5 weeks	P5.5W
+
+Severe joint pain, documented for 8 days.
+DURATION	8 days	P8D
+
+Chronic fatigue, ongoing for 1.5 months.
+DURATION	1.5 months	P1.5M
+
+Patient reported ongoing dental issues for the past 10-11 weeks.
+DURATION	10-11 weeks	P10.11W
+
+Recurrent sinus infections, lasting 1.5 years.
+DURATION	1.5 years	P1.5Y
+
+Ongoing headaches, affecting for 9-10 weeks.
+DURATION	9-10 weeks	P9.10W
+
+History of persistent joint pain for the past 1.8 years.
+DURATION	1.8 years	P1.8Y
+
+Severe migraines, present for 3.5 weeks.
+DURATION	3.5 weeks	P3.5W
+
+Patient with ongoing chest pain for the past 8-9 days.
+DURATION	8-9 days	P8.9D
+
+Recurrent joint swelling, documented for 11 weeks.
+DURATION	11 weeks	P11W
+
+Chronic sinus infections, affecting for 2 days.
+DURATION	2 days	P2D
+
+Ongoing skin irritation, lasting 7-8 weeks.
+DURATION	7-8 weeks	P7.8W
+
+History of persistent headaches for the past 1.2 years.
+DURATION	1.2 years	P1.2Y
+
+Chronic back pain, present for 9-10 months.
+DURATION	9-10 months	P9.10M
+
+Patient reported ongoing joint swelling for the past 13 days.
+DURATION	13 days	P13D
+
+Severe migraines, ongoing for 3 weeks.
+DURATION	3 weeks	P3W
+
+Recurrent chest pain, documented for 4.5 years.
+DURATION	4.5 years	P4.5Y
+
+Ongoing digestive issues, affecting for 7-8 weeks.
+DURATION	7-8 weeks	P7.8W
+
+Chronic joint pain, lasting 11-12 days.
+DURATION	11-12 days	P11.12D
+
+Patient with persistent skin rashes for the past 5 months.
+DURATION	5 months	P5M
+
+Recurrent migraines, present for 2.2 years.
+DURATION	2.2 years	P2.2Y
+
+History of persistent back pain for the past 5.5 weeks.
+DURATION	5.5 weeks	P5.5W
+
+Severe joint pain, documented for 8 days.
+DURATION	8 days	P8D
+
+Chronic fatigue, ongoing for 1.5 months.
+DURATION	1.5 months	P1.5M
+
+Patient reported ongoing dental issues for the past 10-11 weeks.
+DURATION	10-11 weeks	P10.11W
+
+Recurrent sinus infections, lasting 1.5 years.
+DURATION	1.5 years	P1.5Y
+
+Ongoing headaches, affecting for 9-10 weeks.
+DURATION	9-10 weeks	P9.10W
+
+History of persistent joint pain for the past 1.8 years.
+DURATION	1.8 years	P1.8Y
+
+Severe migraines, present for 3.5 weeks.
+DURATION	3.5 weeks	P3.5W
+
+Patient with ongoing chest pain for the past 8-9 days.
+DURATION	8-9 days	P8.9D
+
+Recurrent joint swelling, documented for 11 weeks.
+DURATION	11 weeks	P11W
+
+Chronic sinus infections, affecting for 2 days.
+DURATION	2 days	P2D
+
+Ongoing skin irritation, lasting 7-8 weeks.
+DURATION	7-8 weeks	P7.8W
+
+History of persistent headaches for the past 1.2 years.
+DURATION	1.2 years	P1.2Y
+
+Chronic back pain, present for 9-10 months.
+DURATION	9-10 months	P9.10M
+
+Patient reported ongoing joint swelling for the past 13 days.
+DURATION	13 days	P13D
+
+Severe migraines, ongoing for 3 weeks.
+DURATION	3 weeks	P3W
+
+Recurrent chest pain, documented for 4.5 years.
+DURATION	4.5 years	P4.5Y
+
+Ongoing digestive issues, affecting for 7-8 weeks.
+DURATION	7-8 weeks	P7.8W
+
+Chronic joint pain, lasting 11-12 days.
+DURATION	11-12 days	P11.12D
+
+Patient with persistent skin rashes for the past 5 months.
+DURATION	5 months	P5M
+
+Recurrent migraines, present for 2.2 years.
+DURATION	2.2 years	P2.2Y
+
+History of persistent back pain for the past 5.5 weeks.
+DURATION	5.5 weeks	P5.5W
+
+Severe joint pain, documented for 8 days.
+DURATION	8 days	P8D
+
+Chronic fatigue, ongoing for 1.5 months.
+DURATION	1.5 months	P1.5M
+
+Patient reported ongoing dental issues for the past 10-11 weeks.
+DURATION	10-11 weeks	P10.11W
+
+Recurrent sinus infections, lasting 1.5 years.
+DURATION	1.5 years	P1.5Y
+
+Ongoing headaches, affecting for 9-10 weeks.
+DURATION	9-10 weeks	P9.10W
+
+History of persistent joint pain for the past 1.8 years.
+DURATION	1.8 years	P1.8Y
+
+Severe migraines, present for 3.5 weeks.
+DURATION	3.5 weeks	P3.5W
+
+Patient with ongoing chest pain for the past 8-9 days.
+DURATION	8-9 days	P8.9D
+
+Recurrent joint swelling, documented for 11 weeks.
+DURATION	11 weeks	P11W
+
+Chronic sinus infections, affecting for 2 days.
+DURATION	2 days	P2D
+
+Ongoing skin irritation, lasting 7-8 weeks.
+DURATION	7-8 weeks	P7.8W
+
+History of persistent headaches for the past 1.2 years.
+DURATION	1.2 years	P1.2Y
+
+Chronic back pain, present for 9-10 months.
+DURATION	9-10 months	P9.10M
+
+Patient reported ongoing joint swelling for the past 13 days.
+DURATION	13 days	P13D
+
+Severe migraines, ongoing for 3 weeks.
+DURATION	3 weeks	P3W
+
+Recurrent chest pain, documented for 4.5 years.
+DURATION	4.5 years	P4.5Y
+
+Ongoing digestive issues, affecting for 7-8 weeks.
+DURATION	7-8 weeks	P7.8W
+
+Chronic joint pain, lasting 11-12 days.
+DURATION	11-12 days	P11.12D
+
+Patient with persistent skin rashes for the past 5 months.
+DURATION	5 months	P5M
+
+Recurrent migraines, present for 2.2 years.
+DURATION	2.2 years	P2.2Y
+
+History of persistent back pain for the past 5.5 weeks.
+DURATION	5.5 weeks	P5.5W
+
+Severe joint pain, documented for 8 days.
+DURATION	8 days	P8D
+
+Chronic fatigue, ongoing for 1.5 months.
+DURATION	1.5 months	P1.5M
+
+Patient reported ongoing dental issues for the past 10-11 weeks.
+DURATION	10-11 weeks	P10.11W
+
+Recurrent sinus infections, lasting 1.5 years.
+DURATION	1.5 years	P1.5Y
+
+Ongoing headaches, affecting for 9-10 weeks.
+DURATION	9-10 weeks	P9.10W
+
+History of persistent joint pain for the past 1.8 years.
+DURATION	1.8 years	P1.8Y
+
+Severe migraines, present for 3.5 weeks.
+DURATION	3.5 weeks	P3.5W
+
+Patient with ongoing chest pain for the past 8-9 days.
+DURATION	8-9 days	P8.9D
+
+Recurrent joint swelling, documented for 11 weeks.
+DURATION	11 weeks	P11W
+
+Chronic sinus infections, affecting for 2 days.
+DURATION	2 days	P2D
+
+Ongoing skin irritation, lasting 7-8 weeks.
+DURATION	7-8 weeks	P7.8W
+
+History of persistent headaches for the past 1.2 years.
+DURATION	1.2 years	P1.2Y
+
+Chronic back pain, present for 9-10 months.
+DURATION	9-10 months	P9.10M
+
+Patient reported ongoing joint swelling for the past 13 days.
+DURATION	13 days	P13D
+
+Severe migraines, ongoing for 3 weeks.
+DURATION	3 weeks	P3W
+
+Recurrent chest pain, documented for 4.5 years.
+DURATION	4.5 years	P4.5Y
+
+Ongoing digestive issues, affecting for 7-8 weeks.
+DURATION	7-8 weeks	P7.8W
+
+Chronic joint pain, lasting 11-12 days.
+DURATION	11-12 days	P11.12D
+
+Patient with persistent skin rashes for the past 5 months.
+DURATION	5 months	P5M
+
+Recurrent migraines, present for 2.2 years.
+DURATION	2.2 years	P2.2Y
+
+History of persistent back pain for the past 5.5 weeks.
+DURATION	5.5 weeks	P5.5W
