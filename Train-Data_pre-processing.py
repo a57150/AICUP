@@ -8,9 +8,9 @@ import pandas as pd
 sentence_map = {}   # {file1: [sentense1, sentense2, ... ], file2: [sentense1, sentense2, ... ], ... }
 position_map = {}   # {file1: [(start1, end1), (start2, end2), ... ], file2: [(start1, end1), (start2, end2), ... ], ... }
 
-for fname in glob.glob("codalab\\data\\First_Phase_Release(Correction)\\First_Phase_Text_Dataset\\*.txt"):
+for fname in glob.glob("/Data/First_Phase_Release(Correction)/First_Phase_Text_Dataset/*.txt"):
     with open(fname) as f:
-        name = fname.replace("codalab\\data\\First_Phase_Release(Correction)\\First_Phase_Text_Dataset\\", '').replace('.txt', '')
+        name = fname.replace("/Data/First_Phase_Release(Correction)/First_Phase_Text_Dataset/", '').replace('.txt', '')
         sentences = f.readlines()
         sentence_map[name] = sentences
 
@@ -23,7 +23,7 @@ for fname in glob.glob("codalab\\data\\First_Phase_Release(Correction)\\First_Ph
 
 answer_map = defaultdict(list)   # {file1: [label1, label2, ... ], file2: [label1, label2, ... ], ... }
 
-for fname in glob.glob("codalab\\data\\First_Phase_Release(Correction)\\*.txt"):
+for fname in glob.glob("/Data/First_Phase_Release(Correction)/*.txt"):
     with open(fname, encoding='utf-8-sig') as f:
         answers = f.readlines()
         for ans in answers:
@@ -35,8 +35,8 @@ for fname in glob.glob("codalab\\data\\First_Phase_Release(Correction)\\*.txt"):
 
 data = []
 
-for fname in glob.glob("codalab\\data\\First_Phase_Release(Correction)\\First_Phase_Text_Dataset\\*.txt"):
-    name = fname.replace("codalab\\data\\First_Phase_Release(Correction)\\First_Phase_Text_Dataset\\", '').replace('.txt', '')
+for fname in glob.glob("/Data/First_Phase_Release(Correction)/First_Phase_Text_Dataset/*.txt"):
+    name = fname.replace("/Data/First_Phase_Release(Correction)/First_Phase_Text_Dataset/", '').replace('.txt', '')
     i = j = 0
     n = len(answer_map[name])
 
@@ -74,9 +74,9 @@ for fname in glob.glob("codalab\\data\\First_Phase_Release(Correction)\\First_Ph
 sentence_map = {}
 position_map = {}
 
-for fname in glob.glob("codalab\\data\\Second_Phase_Dataset\\Second_Phase_Text_Dataset\\*.txt"):
+for fname in glob.glob("/Data/Second_Phase_Dataset/Second_Phase_Text_Dataset/*.txt"):
     with open(fname) as f:
-        name = fname.replace("codalab\\data\\Second_Phase_Dataset\\Second_Phase_Text_Dataset\\", '').replace('.txt', '')
+        name = fname.replace("/Data/Second_Phase_Dataset/Second_Phase_Text_Dataset/", '').replace('.txt', '')
         sentences = f.readlines()
         sentence_map[name] = sentences
 
@@ -88,7 +88,7 @@ for fname in glob.glob("codalab\\data\\Second_Phase_Dataset\\Second_Phase_Text_D
 
 answer_map = defaultdict(list)
 
-for fname in glob.glob("codalab\\data\\Second_Phase_Dataset\\*.txt"):
+for fname in glob.glob("/Data/Second_Phase_Dataset/*.txt"):
     with open(fname, encoding='utf-8-sig') as f:
         answers = f.readlines()
         for ans in answers:
@@ -96,8 +96,8 @@ for fname in glob.glob("codalab\\data\\Second_Phase_Dataset\\*.txt"):
             if ans.split('\t')[1] == 'COUNTRY' or ans.split('\t')[1] == 'LOCATION-OTHER': continue
             answer_map[name].append(ans.split('\t')[1:])
 
-for fname in glob.glob("codalab\\data\\Second_Phase_Dataset\\Second_Phase_Text_Dataset\\*.txt"):
-    name = fname.replace("codalab\\data\\Second_Phase_Dataset\\Second_Phase_Text_Dataset\\", '').replace('.txt', '')
+for fname in glob.glob("/Data/Second_Phase_Dataset/Second_Phase_Text_Dataset/*.txt"):
+    name = fname.replace("/Data/Second_Phase_Dataset/Second_Phase_Text_Dataset/", '').replace('.txt', '')
     i = j = 0
     n = len(answer_map[name])
 
@@ -132,7 +132,7 @@ for fname in glob.glob("codalab\\data\\Second_Phase_Dataset\\Second_Phase_Text_D
 #====================================================================================================
 #讀取 ChatGPT 擴增的資料集
 
-with open("codalab\\data\\duration.txt") as f:
+with open("/Data/duration.txt") as f:
     cont = f.readlines()
     i = 0
     for c in cont:
@@ -152,7 +152,7 @@ with open("codalab\\data\\duration.txt") as f:
             ])
             i = 0
 
-with open("codalab\\data\\phone.txt") as f:
+with open("/Data/phone.txt") as f:
     cont = f.readlines()
     i = 0
     for c in cont:
@@ -176,5 +176,5 @@ with open("codalab\\data\\phone.txt") as f:
 #儲存資料集
 
 df = pd.DataFrame(data, columns=['file', 'contents_start', 'contents_end', 'contents', 'labels'])
-csv_filename = 'train_datas.csv'
+csv_filename = '/Data/train_datas.csv'
 df.to_csv(csv_filename, index=False)
